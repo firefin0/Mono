@@ -1,0 +1,5 @@
+{
+  "name": "user",
+  "replicas": "1",
+  "publish": "3001:3001"
+}
