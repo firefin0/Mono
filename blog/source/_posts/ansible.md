@@ -3,7 +3,7 @@ title: Menggunakan Ansible untuk Mengelola Server yang Lebih Mudah
 ---
 Ansible adalah sebuah provisioning tool yang dikembangkan oleh RedHat. Dimana kamu dapat mencatat setiap proses deployment ataupun konfigurasi yang biasa dilakukan berulang - ulang terhadap beberapa server. Misal saat pertama kali kita memasang Ubuntu Server di 10 mesin, maka kita akan melakuan apt-get update serta memasang beberapa komponen seperti PHP5 dan Apache2. Sebenarnya tidak akan menjadi masalah, bila kita hanya melakukan sedikit hal. Tapi bayangkan bila harus melakukan konfigurasi yang cukup kompleks dan dilakukan secara berulang - ulang ke 10 mesin tersebut.
 
-Mungkin kita dapat membuat BASH script atau dengan menggunakan bahasa pemrograman lain untuk mempermudah masalah kita. Namun dengan Ansible, kita dapat melakukan pengelolaan server yang lebih mudah dan terstruktur. Selain itu dapat menghemat waktu kita untuk mengeksekusi proses konfigurasi atau deployment yang sama terhadap beberapa server yang kita punya.
+Mungkin kita dapat membuat BASH script atau dengan menggunakan bahasa pemrograman lain untuk mempermudah masalah kita. Namun dengan Ansible, kita dapat melakukan pengelolaan server yang lebih mudah dan terstruktur. Selain itu dapat menghemat waktu kita untuk mengeksekusi proses konfigurasi atau deployment yang sama terhadap beberapa server yang ada.
 
 Untuk memasang Ansible, kamu dapat memasangnya dengan cara berikut.
 
