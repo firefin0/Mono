@@ -1,0 +1,5 @@
+{
+  "name": "product",
+  "replicas": "1",
+  "publish": "3000:3000"
+}
